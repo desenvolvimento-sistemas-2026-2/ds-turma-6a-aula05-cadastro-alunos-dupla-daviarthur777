@@ -205,5 +205,3 @@ Explique o que a dupla conseguiu concluir nesta aula.
 ## Atenção
 
 Se forem criados dois repositórios para a mesma dupla, **parem a atividade e chamem a professora** antes de continuar.
-
-Não desenvolvam a mesma atividade paralelamente em dois repositórios diferentes.
