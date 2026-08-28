@@ -175,9 +175,9 @@ Testar:
 
 ## Registro da divisão de tarefas
 
-**Integrante A:**
+**Integrante A:*Davi arthur altino, desenvolvimento de sistema, taguatinga, matutino, dupla: daviarthur777, 28/08/26*
 
-**Integrante B:**
+**Integrante B:*Roberto de andrade, desenvolvimento de sistema, taguatinga, matutino, dupla: daviarthur777, 28/08/26*
 
 ## Commits obrigatórios
 
