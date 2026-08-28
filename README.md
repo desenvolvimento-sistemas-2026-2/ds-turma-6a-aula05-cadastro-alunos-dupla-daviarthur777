@@ -147,10 +147,10 @@ Arquivo principal: `AlunoRepository.java`
 
 Verificar:
 
-* `adicionar`;
-* `listarTodos`;
-* `buscarPorNome`;
-* `quantidade`.
+* `adicionar`;'verificado'
+* `listarTodos`;'verificado'
+* `buscarPorNome`;'verificado'
+* `quantidade`.'verificado'
 
 ### Integrante B
 
@@ -158,9 +158,9 @@ Arquivo principal: `AlunoService.java`
 
 Verificar:
 
-* validação do nome;
-* validação do curso;
-* validação do semestre.
+* validação do nome;'verificado'
+* validação do curso;'verificado'
+* validação do semestre.'verificado'
 
 ### Dupla
 
